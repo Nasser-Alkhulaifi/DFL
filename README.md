@@ -1,6 +1,6 @@
 # Decision-Focused Learning for Batteries Energy Efficiency
 
-Welcome to the repository for the **Energy Storage Forecasting and Optimisation: A Comprehensive Study of Decision-Focused Learning Compared to Predict-Then-Optimise Using Real-World Battery Data** study. This research explores the application of DFL to optimise battery charging strategies in residential settings, aiming to reduce energy costs and improve efficiency.
+Welcome to the repository for the **Energy Storage Forecasting and Optimisation: A Comprehensive Study of Decision-Focused Learning Compared to Predict-Then-Optimise Using Real-World Battery Data** paper. This research explores the application of DFL to optimise battery charging strategies in residential settings, aiming to reduce energy costs and improve efficiency.
 
 
 ## Introduction
