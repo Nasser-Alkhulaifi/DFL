@@ -23,7 +23,7 @@ In this study, we focus on:
 ## Dataset
 The dataset includes:
 
-- **Batteries and Household Demand Data** (sourced from Intelligent Plant: https://www.intelligentplant.com)
+- **Batteries and Household Energy Demand Data** (sourced from Intelligent Plant: https://www.intelligentplant.com)
 - **Energy Prices** (sourced Octopus Energy API https://developer.octopus.energy/rest/guides/api-basics).
 
 ## Repository Structure
