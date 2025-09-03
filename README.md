@@ -6,7 +6,7 @@ Welcome to the repository for the **Decision-Focused Learning Enhanced by Automa
 
 ## Objectives
 - **Minimise energy costs while meeting demand**: Optimise battery charging schedules to take advantage of lower electricity prices.  
-- **Enhance DFL with automated feature engineering**: We used an automated feature engineering algorithm to improve emerging DFL methods while minimising reliance on domain expertise, thereby streamlining the development of full predict-and-optimise pipelines for energy storage optimisation problems.
+- **Enhance DFL with automated feature engineering**: We used [**AutoEnergy**](https://www.sciencedirect.com/science/article/pii/S0950705125013413), an automated feature engineering algorithm, to enhance emerging DFL methods while minimising reliance on domain expertise, thereby streamlining the development of full predict-and-optimise pipelines for energy storage optimisation problems.
 
 
 
