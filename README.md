@@ -50,7 +50,7 @@ The dataset includes:
   pip install -r requirements.txt
   
 
-- Corresponding Author: For enquiries regarding please contact [nasser.alkhulaifi@nottingham.ac.uk]
+- Corresponding Author: For enquiries please contact nasser.alkhulaifi@nottingham.ac.uk
 
 ## Citation
 
