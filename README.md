@@ -50,13 +50,16 @@ The dataset includes:
   pip install -r requirements.txt
   
 
+- Corresponding Author: For enquiries regarding please contact [nasser.alkhulaifi@nottingham.ac.uk]
+
 ## Citation
 
 ```bibtex
 @article{xx,
   title={Decision-Focused Learning Enhanced by Automated Feature Engineering for Energy Storage Optimisation},
-  author={...},
+  author={N. Alkhulaifi and I. G. Dogan and T. R. Cargan and A. L. Bowler and D. Pekaslan and N. J. Watson and I. Triguero},
   journal={Under Review},
   year={2025}
 }
+
 
