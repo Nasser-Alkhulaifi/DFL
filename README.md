@@ -2,7 +2,9 @@
 
 Welcome to the repository for the **Decision-Focused Learning Enhanced by Automated Feature Engineering for Energy Storage Optimisation** paper.
 
-- This repository also hosts the **Supplementary Material** for the paper.
+- This repository hosts the **Supplementary Material** for the paper.
+- The paper is currently under review. The code and data will be made available soon.
+
 
 ## Objectives
 - **Minimise energy costs while meeting demand**: Optimise battery charging schedules to take advantage of lower electricity prices.  
@@ -46,10 +48,6 @@ The dataset includes:
   ```bash
   pip install -r requirements.txt
   
-
-
-
- **Note:** The paper is currently under review. The full dataset and code will be made available soon.
 
 ## Citation
 
