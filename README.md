@@ -52,9 +52,11 @@ The dataset includes:
 
 ## Citation
 
+```bibtex
 @article{xx,
   title={Decision-Focused Learning Enhanced by Automated Feature Engineering for Energy Storage Optimisation},
   author={...},
   journal={Under Review},
   year={2025}
 }
+
