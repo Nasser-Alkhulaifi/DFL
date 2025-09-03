@@ -1,8 +1,12 @@
 # Decision-Focused Learning for Batteries Energy Efficiency
 
-Welcome to the repository for the **Decision-Focused Learning Enhanced by Automated Feature Engineering for Energy Storage Optimisation** paper. This research explores the application of DFL vs. PTO to optimise battery charging strategies in residential settings, aiming to reduce energy costs and improve efficiency.
+Welcome to the repository for the **Decision-Focused Learning Enhanced by Automated Feature Engineering for Energy Storage Optimisation** paper.
 
-This repository also hosts the **Supplementary Material** for the paper.
+- This repository also hosts the **Supplementary Material** for the paper.
+
+## Objectives
+- **Minimise energy costs while meeting demand**: Optimise battery charging schedules to take advantage of lower electricity prices.  
+- **Enhance DFL with automated feature engineering**: We used an automated feature engineering algorithm to improve emerging DFL methods while minimising reliance on domain expertise, thereby streamlining the development of full predict-and-optimise pipelines for energy storage optimisation problems.
 
 
 
@@ -20,8 +24,6 @@ In this study, we focus on:
   - **Q**: **When should Cha/Disrging occur during this period? And by how much?**
 
 
-## Objectives
-- **Minimise Energy Costs while meeting the demand**: Optimise battery charging schedules to take advantage of lower electricity prices.
 
 
 ## Dataset
