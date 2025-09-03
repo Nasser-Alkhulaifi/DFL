@@ -2,8 +2,9 @@
 
 Welcome to the repository for the **Decision-Focused Learning Enhanced by Automated Feature Engineering for Energy Storage Optimisation** paper.
 
-- This repository hosts the **Supplementary Material** for the paper.
 - The paper is currently under review. The code and data will be made available soon.
+- This repository hosts the **Supplementary Material** for the paper.
+
 
 
 ## Objectives
