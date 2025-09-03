@@ -3,6 +3,7 @@
 Welcome to the repository for the **Energy Storage Forecasting and Optimisation: A Comprehensive Study of Decision-Focused Learning (DFL) Compared to Predict-Then-Optimise (PTO) Using Real-World Battery Data** paper. This research explores the application of DFL vs. PTO to optimise battery charging strategies in residential settings, aiming to reduce energy costs and improve efficiency.
 
 
+
 ## Introduction
 
 Traditional machine learning approaches often separate prediction and decision-making processes, which can lead to suboptimal outcomes due to error propagation. **DFL** integrates prediction and optimisation into a single end-to-end learning framework, directly aligning model predictions with decision-making objectives.
@@ -28,12 +29,9 @@ The dataset includes:
 
 ## Repository Structure
 
-- `data/` - Data
-- `results/` - Model outputs and evaluation metrics
-- `PyEPO.ipynb` – Python implementation of the experiments presented in the paper
-- `README.md` - Project overview and instructions
-- `requirements.txt` - List of required Python packages
+.....
 
+##
 
 ### Prerequisites
 
@@ -42,3 +40,7 @@ The dataset includes:
 
   ```bash
   pip install -r requirements.txt
+  
+  
+ **Note:** The paper is currently under review. The full dataset and code will be made available soon.
+
