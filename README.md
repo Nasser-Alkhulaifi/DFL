@@ -1,4 +1,4 @@
-# Decision-Focused Learning for Batteries Energy Efficiency
+# Decision-Focused Learning Enhanced by Automated Feature Engineering for Energy Storage Optimisation
 
 Welcome to the repository for the **Decision-Focused Learning Enhanced by Automated Feature Engineering for Energy Storage Optimisation** paper.
 
